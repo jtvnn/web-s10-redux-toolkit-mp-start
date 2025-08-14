@@ -4,7 +4,6 @@ import {
   toggleVisibility,
   deleteQuote,
   setHighlightedQuote,
-  createQuote,
 } from "../state/quotesSlice"; // ✨ import action
 
 // pulls quotes, displayAllQuotes, and highlightedQuote from the Redux store
